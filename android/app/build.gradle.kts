@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.todo_list"
+    namespace = "com.example.appointment_booking"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.todo_list"
+        applicationId = "com.example.appointment_booking"
         minSdk = 21
         targetSdk = 35
         versionCode = 1
